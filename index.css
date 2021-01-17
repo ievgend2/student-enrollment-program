@@ -1,0 +1,32 @@
+.container{
+  width: 70%;
+  margin: auto;
+  margin-top: 2%;
+  text-align: center;
+}
+
+.status_div {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+
+.true {
+  width: 20px;
+  height: 20px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.false {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+}
