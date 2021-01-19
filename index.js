@@ -61,7 +61,7 @@ function postStudentData(students) {
 
         let newCard = document.createElement("div");
         let cardContent = document.createElement("p");
-        // newCard.classList.add("col-6")
+        newCard.classList.add("col-6")
 
         const card = ` 
         <div class="card mb-5" style="width: 18rem;">
