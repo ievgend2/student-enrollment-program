@@ -1,4 +1,4 @@
-# Front End 1 Week 6 Assignment Directions
+# Student Enrollment Program
 
 Now you know how to create webpages using HTML, CSS and JavaScript. You also learned how to use links between pages, about Bootstrap and fetching data.
 
